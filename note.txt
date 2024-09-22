@@ -12,8 +12,14 @@
 4.2 xác nhận file cần thêm và lý do thêm file (phải có ý nghĩa).... CI/CDCD
     git commit -m "lý do"
     git commit -m "create html and note"
-4.3 đẩy file lên repo remote
-    git push -u ỏigin "tên"
+4.3 đẩy file lên repo remote (main - master)
+    branchName: main hoặc master
+    -u origin: chỉ áp dụng khi push 1 branch lần đầu tiên
+
+    git push -u origin "branchName"
+
+    từ lần 2 trở đi:
+    git push
 
 
 
