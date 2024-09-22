@@ -9,3 +9,14 @@
     git add (tên file) .......  git add index.html
     git add . ................  khai báo tất cả các file cần đẩy lên
     git add -A(-all) .........  chỉ đẩy những file có thay đổi
+4.2 xác nhận file cần thêm và lý do thêm file (phải có ý nghĩa).... CI/CDCD
+    git commit -m "lý do"
+    git commit -m "create html and note"
+4.3 đẩy file lên repo remote
+    git push -u ỏigin "tên"
+
+
+
+
+    git config --global user.email "phantatthin2201@gmail.com"
+  git config --global user.name "capstone_tailwind"
