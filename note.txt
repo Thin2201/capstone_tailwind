@@ -20,9 +20,19 @@
 
     từ lần 2 trở đi:
     git push
+    
+
+Đóng vai trọ thanm gia vào dự án
+1.accept lời mời
+2. kéo repo của dự án về
+    git clone "ủl repo"
+
+3. kéo những thay đổi của repo remote về git pull
 
 
 
 
     git config --global user.email "phantatthin2201@gmail.com"
+  git config --global user.name "capstone_tailwind"
+  git config --global user.email "phantatthin2201@gmail.com"
   git config --global user.name "capstone_tailwind"
